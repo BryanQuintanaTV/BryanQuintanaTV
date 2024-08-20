@@ -1,7 +1,5 @@
 ### Hi, I'm Bryan Quintana 👋
 
-<img align='center' src="https://github.com/BryanQuintanaTV/BryanQuintanaTV/blob/main/zBuu79ueuHIbw_hU5H0Ka-transformed.png" width="330">
-
 <p><em>Computer Systems Engineering Student at <a href="https://www.chihuahua2.tecnm.mx/">Tecnológico Nacional De México, Campus Chihuahua II  </a><img src="https://pbs.twimg.com/profile_images/841673582165942273/KJxq385A_400x400.jpg" width="30">
 
 ```javascript
