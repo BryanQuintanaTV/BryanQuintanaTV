@@ -4,8 +4,8 @@
 
 ```javascript
 const Bryan_Quintana = {
-  code: [Javascript, Java, HTML, CSS, Python],
-  new_courses: "AI and Python"
+  coding_skills: [JavaScript, TypeScript, Java, HTML, CSS, Python],
+  new_course_learning: "AI and Python"
 }
 ```
 [![Linkedin: Bryan Quintana](https://img.shields.io/badge/-Bryan%20Quintana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanalexisquintana/)](https://www.linkedin.com/in/bryanalexisquintana/)
