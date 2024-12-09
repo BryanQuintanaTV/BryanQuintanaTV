@@ -4,11 +4,14 @@
 
 ```javascript
 const Bryan_Quintana = {
-  coding_skills: [JavaScript, TypeScript, Java, HTML, CSS, Python],
-  new_course_learning: "AI and Python"
+  coding_skills: ["JavaScript", "TypeScript", "Java", "HTML", "CSS", "Python"],
+  frameworks: ["Angular", "Django"],
+  new_course_learning: "AI and Python",
+  markdown_skill: true
 }
 ```
-[![Linkedin: Bryan Quintana](https://img.shields.io/badge/-Bryan%20Quintana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanalexisquintana/)](https://www.linkedin.com/in/bryanalexisquintana/)
+[![Linkedin: Bryan Quintana](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanalexisquintana/)](https://www.linkedin.com/in/bryanalexisquintana/)
+[![Website: Bryan Quintana](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bryanquintana.com/)](https://bryanquintana.com/)
 
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 year
 - Learn Angular
@@ -18,17 +21,9 @@ const Bryan_Quintana = {
 <h3>🛠 To Learn</h3>
 Things that I want to learn 🤔
 - 🔧 &nbsp; AWS | Angular | React | Unreal engine | C++
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanQuintanaTV&theme=dark)
+
 <!--
 **BryanQuintanaTV/BryanQuintanaTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
